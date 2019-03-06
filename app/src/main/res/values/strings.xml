@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTime</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="xx_xx">XX XX</string>
+    <string name="xxxx">XXXX</string>
+</resources>
